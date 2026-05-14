@@ -13,6 +13,11 @@
     margin: 5% 20%;
 }
 
+.island_img {
+    float: right;
+    margin-left: 16px;
+}
+
 .project-name {
     font-weight: bold;
 }
