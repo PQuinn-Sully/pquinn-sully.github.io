@@ -13,9 +13,16 @@
     margin: 5% 20%;
 }
 
+.horizontal {
+    display: flex;
+    justify-content: space-between;
+}
+
 .island_img {
     float: right;
     margin-left: 16px;
+    width: 160px;
+    height: auto;
 }
 
 .project-name {
