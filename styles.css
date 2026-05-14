@@ -11,11 +11,30 @@
 
 .container {
     margin: 5% 20%;
+    gap: 20px;
+}
+
+.space {
+    height: 30px;
 }
 
 .horizontal {
     display: flex;
     justify-content: space-between;
+}
+
+.right {
+    float: right;
+}
+
+.im_cap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.im_cap img {
+    display: block;
 }
 
 .side_img {
