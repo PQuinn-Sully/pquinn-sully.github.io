@@ -29,6 +29,10 @@
     justify-content: space-between;
 }
 
+.pig_div{
+    width: 250px;
+}
+
 .right {
     float: right;
 }
@@ -46,7 +50,7 @@
 .side_img {
     float: right;
     margin-left: 16px;
-    width: 220px;
+    width: 250px;
     height: auto;
 }
 
